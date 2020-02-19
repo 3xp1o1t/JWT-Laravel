@@ -12,6 +12,11 @@
 Ejemplo sobre como utilizar Json-web-token con laravel para brindar seguridad a las rutas
 del API.
 
+- Ejemplo:
+ http://jwt-laravel.test/api/login?email=admin@jwt.com&password=123456
+ <br>
+ Retorna el token, con el tiempo de expiracion.
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
